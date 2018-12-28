@@ -1,0 +1,244 @@
+\documentclass[11pt]{article}
+
+\usepackage{makeidx}
+
+\usepackage{latexsym}
+
+\usepackage{color}
+
+\usepackage{wrapfig}
+
+\usepackage{here}
+
+\usepackage{graphicx}
+
+\usepackage[centertags]{amsmath}
+
+\usepackage{amsfonts}
+
+\usepackage{amssymb}
+
+\usepackage{amsthm}
+
+\usepackage{subfigure}
+
+\usepackage{here}
+
+\usepackage{ulsy}
+
+\usepackage{hyperref}
+
+
+\addtolength{\topmargin}{-2.5cm}
+
+\addtolength{\textheight}{4cm}
+
+\addtolength{\oddsidemargin}{-2cm} \addtolength{\textwidth}{3.5cm}
+
+\addtolength{\evensidemargin}{-2cm}
+
+
+
+\begin{document}
+
+\renewcommand\floatpagefraction{.9}
+
+\renewcommand\topfraction{.9}
+
+\renewcommand\bottomfraction{.9}
+
+\renewcommand\textfraction{.1}
+
+\setcounter{totalnumber}{50} \setcounter{topnumber}{50}
+
+\setcounter{bottomnumber}{50} \floatsep 20 pt \intextsep 5 pt
+
+\abovecaptionskip 0 pt
+
+\belowcaptionskip 0 pt
+
+
+
+\newcommand{\beq}{\begin{equation}}
+
+\newcommand{\eeq}{\end{equation}}
+
+\newcommand{\ba}{\begin{array}}
+
+\newcommand{\ea}{\end{array}}
+
+\newcommand{\bea}{\begin{eqnarray}}
+
+\newcommand{\eea}{\end{eqnarray}}
+
+\newcommand{\bes}{\begin{eqnarray*}}
+
+\newcommand{\ees}{\end{eqnarray*}}
+
+\newcommand{\vs}{\vspace*{0.5cm}}
+
+\newcommand{\svs}{\vspace*{0.25cm}}
+
+
+
+\newcommand{\abs}[1]{\mid \! #1\! \mid}
+
+\renewcommand{\b}[1]{\mbox{{\bf #1}}}
+
+\renewcommand{\vec}[1]{\protect\overrightarrow{ #1}}
+
+\newcommand{\mat}[1]{\mbox{\boldmath $#1$}}
+
+
+
+\long\def\bform#1\eform{\begin{equation}
+
+   \begin{minipage}{\eqbreite}\vskip .1cm
+
+   \let\\ = \thcr
+
+   \halign{$\displaystyle{##}$ \hfil
+
+  && $\displaystyle{##}$\hfil\cr#1\cr}
+
+   \vskip .3cm \end{minipage}
+
+\end{equation}}
+
+\def\thcr{\cr\noalign{\vskip.3cm}}
+
+\newlength{\eqbreite}\setlength{\eqbreite}{\textwidth}
+
+\addtolength{\eqbreite}{-1.5cm}
+
+
+
+\long\def\bnn#1\enn{$$\begin{minipage}{\eqbreite}
+
+\vskip .1cm \let\\ = \thcr \halign{$\displaystyle{##}$
+
+\hfil && $\displaystyle{##}$\hfil \cr#1 \cr}
+
+\vskip.3cm \end{minipage}$$}
+
+
+
+\parindent 0 in
+
+\parskip .25 cm
+
+
+
+\input epsf
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Actual text starts below:
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\thispagestyle{empty}
+
+\svs
+
+\begin{center}
+
+\LARGE \textrm{\textbf{The Basic Stuff to Know - Mathematics Boot Camp: \\
+ Introduction to Complex Systems Tools}}\\
+
+\vspace*{1cm}  {\bf Viktor Jirsa} \\
+
+\end{center} \vs
+
+
+
+\normalsize
+This intensive course is to provide students with the
+prerequisites - some conceptual background and sufficient working
+knowledge of mathematics - necessary to master the mathematically
+based graduate courses at the Center for Complex Systems \& Brain
+Sciences. By no means it is intended to compete with the
+traditional introductory courses in mathematics taught at
+universities. Rather it should be viewed as a synopsis of the
+mathematical tools most probably encountered in scientific
+applications. The present script is meant to serve as a companion
+during the boot camp and as a quick reference and look-up source
+after the boot camp.
+\vs \svs
+
+
+
+\begin{figure}[!h]
+
+    \centerline{\epsfxsize=10cm  \epsfbox{FRONT_COVER.ps}}
+
+\end{figure} \vs \svs
+
+
+
+\begin{center} \Large
+
+\textrm{Boca Raton Florida, August 2002 \\
+     Center for Complex Systems and Brain Sciences \\
+     Florida Atlantic University}
+\end{center}  \normalsize
+
+
+
+\newpage
+
+\vspace{5cm}
+\begin{center} \Large
+  \textrm{{\bf LICENSE}\\
+    \vs
+    Copyright (c) 2018 Viktor K. Jirsa}
+\end{center} \normalsize \vs \svs
+
+
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+To view a copy of this license, visit \href{http://creativecommons.org/licenses/by-nc-sa/4.0/}{this page} or send a letter 
+to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+\vspace{3cm}
+
+\begin{figure}
+
+    \centerline{\epsfxsize=11cm \includegraphics{CC-license.eps}}
+
+\end{figure} \vs \svs
+
+
+
+\newpage
+
+\tableofcontents
+
+\listoffigures
+
+
+
+\newpage
+
+\pagestyle{plain}
+
+
+
+\input{Final_Day_1}  \newpage
+
+\input{Final_Day_2}  \newpage
+
+\input{Final_Day_3}  \newpage
+
+\input{Final_Day_4}  \newpage
+
+\input{Final_Day_5}
+
+
+
+\end{document}
+
