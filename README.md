@@ -7,15 +7,14 @@ This repository contains didactic material used in an introductory course of mat
 
 This intensive course is to provide students with the prerequisites - some conceptual background and sufficient working knowledge of mathematics - necessary to master the mathematically based graduate courses at the Center for Complex Systems \& Brain Sciences. By no means it is intended to compete with the traditional introductory courses in mathematics taught at universities. Rather it should be viewed as a synopsis of the mathematical tools most probably encountered in scientific applications. The present script is meant to serve as a companion during the boot camp and as a quick reference and look-up source after the boot camp.
 
-The project is compact while fairly complete, hence being ideal to include new topics or to expand those already discussed.
+The compactness and completeness of these introductory concepts make this project suitable to include new topics or to expand existing ones, and hence I hope this project will estimulate the development of new projects disseminating mathematics in Life Sciences.
 
 Original version: Boca Raton Florida, USA, August 2002.
 Current version: Marseille, France, December 2018.
 
 ## Contents
 
-The repository includes tex files with the contents of the course and a directory with Matlab scripts to generate the figures used in the tex document. The text is organized in different files labelled as `Final_day$number.tex`, where `$number` stands for the order of the chapter. These files can be then included as desired in a main file containing the headers of the document, called `Final.tex`. In addition, there are a number of tests called `Final_test$number.tex`, which should be compiled
-individually.
+The repository includes tex files with the contents of the course and a directory with Matlab scripts to generate the figures used in the tex document. The text is organized in different files labelled as `Final_day$number.tex`, where `$number` stands for the order of the chapter. These files can be then included as desired in a main file containing the headers of the document, called `Final.tex`. In addition, there are a number of tests in the folder `tests` labelled as `Final_test$number.tex` in correspondence with the different chapters,  which should be compiled individually. The Matlab scripts and the figures generated from them are stored in the folder `matlab`, and any remaining figures in the folder `figs`. 
 
 ### Downloading all the repository
 
@@ -48,7 +47,7 @@ dvipdf Final.dvi
 ## Contributors
 
 The Mathematics Boot Camp would not have been possible without the help of my students, both running the boot camp, as well as writing this code. Here I wish to thank in particular Felix Almonte, Collins Assisi, Frederick Carver and Gautam Vallabha who tutored several afternoon sessions over the years and developed the exercises. Their contribution cannot be overstated. Jaime Morris helped in the typing and formatting of the code and Ajay Pillai did the lion's share in generating the figures and
-formatting the code. Without these two, the script would have never evolved beyond a few hand-scribbled notes. Armin Fuchs spent considerable time on debugging the manuscript and took over my class towards the end of my tenure at FAU. This repository was created by [Alberto Pascual-García](https://apascualgarcia.github.io/).
+formatting the code. Without these two, the script would have never evolved beyond a few hand-scribbled notes. Armin Fuchs spent considerable time on debugging the manuscript and took over my class towards the end of my tenure at FAU. This repository for the project was created by Alberto Pascual-García, please [contact](https://apascualgarcia.github.io/) him for any problem with the repository.
 
 Thank you so much!
 
