@@ -79,18 +79,17 @@
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Translation of the coordinate system}}}{38}{figure.37}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Rotation of the coordinate system}}}{38}{figure.37}
 \contentsline {figure}{\numberline {38}{\ignorespaces Polar coordinates}}{39}{figure.38}
-\contentsline {figure}{\numberline {39}{\ignorespaces Adjoint basis vectors}}{41}{figure.39}
-\contentsline {figure}{\numberline {40}{\ignorespaces Eigenvalues and eigenvectors}}{44}{figure.40}
-\contentsline {figure}{\numberline {41}{\ignorespaces Determining eigenvalues and eigenvectors }}{46}{figure.41}
-\contentsline {figure}{\numberline {42}{\ignorespaces Representation of a complex number}}{47}{figure.42}
-\contentsline {figure}{\numberline {43}{\ignorespaces Adding two complex numbers}}{48}{figure.43}
-\contentsline {figure}{\numberline {44}{\ignorespaces The complex number $z$ and its complex conjugate $z^*$}}{49}{figure.44}
-\contentsline {figure}{\numberline {45}{\ignorespaces $f(x)=2\tmspace +\thinmuskip {.1667em}\qopname \relax o{sin}(x-\frac {\pi }{3})\tmspace +\thickmuskip {.2777em}$ expressed as $\tmspace +\thickmuskip {.2777em}f(x)=-\sqrt {3}\qopname \relax o{cos}x + \qopname \relax o{sin}x$}}{51}{figure.45}
-\contentsline {figure}{\numberline {46}{\ignorespaces Superposition of two functions with different frequencies and phases}}{51}{figure.46}
-\contentsline {figure}{\numberline {47}{\ignorespaces Decomposition of a non periodic function}}{53}{figure.47}
-\contentsline {figure}{\numberline {48}{\ignorespaces The power spectrum for $f(x)=x^2$}}{54}{figure.48}
-\contentsline {figure}{\numberline {49}{\ignorespaces A finite non periodic time series is periodically contained}}{54}{figure.49}
-\contentsline {figure}{\numberline {50}{\ignorespaces Gibbs' phenomenon}}{55}{figure.50}
-\contentsline {figure}{\numberline {51}{\ignorespaces Power spectra of a random signal and a sine wave}}{56}{figure.51}
-\contentsline {figure}{\numberline {52}{\ignorespaces Approximation of a curve at a point $x_0$ with the tangent at $x_0$}}{57}{figure.52}
-\contentsline {figure}{\numberline {53}{\ignorespaces Steps of a Taylor expansion of $\qopname \relax o{sin}x$ around $x_0=0$}}{58}{figure.53}
+\contentsline {figure}{\numberline {39}{\ignorespaces Eigenvalues and eigenvectors}}{44}{figure.39}
+\contentsline {figure}{\numberline {40}{\ignorespaces Determining eigenvalues and eigenvectors }}{45}{figure.40}
+\contentsline {figure}{\numberline {41}{\ignorespaces Representation of a complex number}}{46}{figure.41}
+\contentsline {figure}{\numberline {42}{\ignorespaces Adding two complex numbers}}{47}{figure.42}
+\contentsline {figure}{\numberline {43}{\ignorespaces The complex number $z$ and its complex conjugate $z^*$}}{48}{figure.43}
+\contentsline {figure}{\numberline {44}{\ignorespaces $f(x)=2\tmspace +\thinmuskip {.1667em}\qopname \relax o{sin}(x-\frac {\pi }{3})\tmspace +\thickmuskip {.2777em}$ expressed as $\tmspace +\thickmuskip {.2777em}f(x)=-\sqrt {3}\qopname \relax o{cos}x + \qopname \relax o{sin}x$}}{50}{figure.44}
+\contentsline {figure}{\numberline {45}{\ignorespaces Superposition of two functions with different frequencies and phases}}{50}{figure.45}
+\contentsline {figure}{\numberline {46}{\ignorespaces Decomposition of a non periodic function}}{52}{figure.46}
+\contentsline {figure}{\numberline {47}{\ignorespaces The power spectrum for $f(x)=x^2$}}{53}{figure.47}
+\contentsline {figure}{\numberline {48}{\ignorespaces A finite non periodic time series is periodically contained}}{53}{figure.48}
+\contentsline {figure}{\numberline {49}{\ignorespaces Gibbs' phenomenon}}{54}{figure.49}
+\contentsline {figure}{\numberline {50}{\ignorespaces Power spectra of a random signal and a sine wave}}{55}{figure.50}
+\contentsline {figure}{\numberline {51}{\ignorespaces Approximation of a curve at a point $x_0$ with the tangent at $x_0$}}{56}{figure.51}
+\contentsline {figure}{\numberline {52}{\ignorespaces Steps of a Taylor expansion of $\qopname \relax o{sin}x$ around $x_0=0$}}{57}{figure.52}

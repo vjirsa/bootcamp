@@ -47,15 +47,15 @@
 \contentsline {subsubsection}{\numberline {3.7.4}Non-orthogonal Coordinate Systems}{40}{subsubsection.3.7.4}
 \contentsline {subsection}{\numberline {3.8}Determinants}{40}{subsection.3.8}
 \contentsline {subsection}{\numberline {3.9}The Inverse of a Matrix $\unhbox \voidb@x \hbox {\relax \mathversion {bold}$A^{-1}$}$}{42}{subsection.3.9}
-\contentsline {subsection}{\numberline {3.10}Linear Systems of Equations}{43}{subsection.3.10}
-\contentsline {subsection}{\numberline {3.11}Eigenvalues and Eigenvectors}{44}{subsection.3.11}
+\contentsline {subsection}{\numberline {3.10}Linear Systems of Equations}{42}{subsection.3.10}
+\contentsline {subsection}{\numberline {3.11}Eigenvalues and Eigenvectors}{43}{subsection.3.11}
 \contentsline {section}{\numberline {4}Complex Number Theory}{46}{section.4}
 \contentsline {subsection}{\numberline {4.1}Representations and Basic Properties}{46}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}Complex conjugate}{48}{subsection.4.2}
-\contentsline {section}{\numberline {5}Fourier Series}{50}{section.5}
-\contentsline {subsection}{\numberline {5.1}Power Spectrum}{53}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Gibbs' Phenomenon}{54}{subsection.5.2}
-\contentsline {subsection}{\numberline {5.3}Important Time-Frequency relations}{55}{subsection.5.3}
-\contentsline {subsection}{\numberline {5.4}Taylor Series}{56}{subsection.5.4}
-\contentsline {subsection}{\numberline {5.5}Finally some fun with Math}{59}{subsection.5.5}
-\contentsline {section}{\numberline {6}Acknowledgements}{60}{section.6}
+\contentsline {section}{\numberline {5}Fourier Series}{49}{section.5}
+\contentsline {subsection}{\numberline {5.1}Power Spectrum}{52}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Gibbs' Phenomenon}{53}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Important Time-Frequency relations}{54}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Taylor Series}{55}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Finally some fun with Math}{58}{subsection.5.5}
+\contentsline {section}{\numberline {6}Acknowledgements}{59}{section.6}
