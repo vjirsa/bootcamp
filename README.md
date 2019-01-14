@@ -7,7 +7,7 @@ This repository contains didactic material used in an introductory course of mat
 
 This intensive course is to provide students with the prerequisites - some conceptual background and sufficient working knowledge of mathematics - necessary to master the mathematically based graduate courses at the Center for Complex Systems \& Brain Sciences. By no means it is intended to compete with the traditional introductory courses in mathematics taught at universities. Rather it should be viewed as a synopsis of the mathematical tools most probably encountered in scientific applications. The present script is meant to serve as a companion during the boot camp and as a quick reference and look-up source after the boot camp.
 
-The compactness and completeness of these introductory concepts make this project suitable to include new topics or to expand existing ones, and hence I hope this project will estimulate the development of new projects disseminating mathematics in Life Sciences.
+The compactness and completeness of these introductory concepts make this project suitable to include new topics or to expand existing ones, and hence I hope this project will stimulate the development of new projects disseminating mathematics in Life Sciences.
 
 Original version: Boca Raton Florida, USA, August 2002.
 Current version: Marseille, France, December 2018.
@@ -46,8 +46,8 @@ dvipdf Final.dvi
 
 ## Contributors
 
-The Mathematics Boot Camp would not have been possible without the help of my students, both running the boot camp, as well as writing this code. Here I wish to thank in particular Felix Almonte, Collins Assisi, Frederick Carver and Gautam Vallabha who tutored several afternoon sessions over the years and developed the exercises. Their contribution cannot be overstated. Jaime Morris helped in the typing and formatting of the code and Ajay Pillai did the lion's share in generating the figures and
-formatting the code. Without these two, the script would have never evolved beyond a few hand-scribbled notes. Armin Fuchs spent considerable time on debugging the manuscript and took over my class towards the end of my tenure at FAU. This repository for the project was created by Alberto Pascual-García, please [contact](https://apascualgarcia.github.io/) him for any problem with the repository.
+I have conceived and developed the Mathematics Boot Camp with the objective to orient and guide graduate students regarding the mathematics they will likely encounter during their research. Just enough and not more. This project would not have been possible without the help of my students, both running the boot camp, as well as writing this code. Here I wish to thank in particular Felix Almonte, Collins Assisi, Frederick Carver and Gautam Vallabha who tutored several afternoon sessions over the years and developed the exercises. Their contribution cannot be overstated. Jaime Morris helped in the typing and formatting of the code and Ajay Pillai did the lion's share in generating the figures and formatting the code. Without these two, the script would have never evolved beyond a few hand-scribbled notes. Armin Fuchs spent considerable time on debugging the manuscript and took over my class towards the end of my tenure at Florida Atlantic University. The version in this repository is one of the last versions I used while teaching in Florida. The repository for the project was created by Alberto Pascual-García, please [contact](https://apascualgarcia.github.io/) him for any problem with the repository.
+
 
 Thank you so much!
 
